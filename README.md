@@ -15,7 +15,7 @@ I'm **`Harsh Gandash`** aka Sanket. B.Tech Computer Science Engineering student 
 
 - 👀 I’m looking to collaborate on **Open-Source** Projects.
 - 🐍 I’m looking to collaborate on **C** projects.
-- 👨‍💻 All of my projects are available at [https://github.com/HarshGandash](https://github.com/HarshGandash)
+- 👨‍💻 All of my projects are available at [github.com/HarshGandash](https://github.com/HarshGandash)
 - 📫 How to reach me **harshgandash@gmail.com**
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHarshGandash&label=total-visitors&labelColor=%23ba68c8&countColor=%23697689)
